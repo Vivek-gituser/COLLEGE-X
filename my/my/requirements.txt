@@ -4,3 +4,6 @@ sqlparse==0.5.3
 tzdata==2025.2
 whitenoise==6.11.0
 requests==2.32.5
+gunicorn==23.0.0
+
+
